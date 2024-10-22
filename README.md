@@ -1,1 +1,1 @@
-this is fork of minZoom mod for minsuatry
+this is fork of minZoom mod for mindutry
