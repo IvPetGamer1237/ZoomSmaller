@@ -1,8 +1,8 @@
 {
- "name": "minzoom",
- "displayName": "minZoom",
+ "name": "zoomsmaller",
+ "displayName": "ZoomSmaller",
  "version": "1.52",
- "author": "Mandu",
+ "author": "Mandu, fork by IPG",
  "minGameVersion": "136",
  "hidden": "true"
 }
